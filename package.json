@@ -1,0 +1,24 @@
+{
+  "name": "redemption-game",
+  "version": "1.0.0",
+  "description": "first init of redemption-game",
+  "main": "index.js",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewGotz/Redemption-Game1.git"
+  },
+  "author": "Andrew Gotzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewGotz/Redemption-Game1/issues"
+  },
+  "homepage": "https://github.com/AndrewGotz/Redemption-Game1#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "phaser": "^3.7.1",
+    "socket.io": "^2.1.0"
+  }
+}
